@@ -9,4 +9,4 @@ Keep track of players and payments for TNF!
 
 ## Authors
 
-* **Morgan James** - *Initial work* - [MogJam](https://github.com/mogjam)
+**Morgan James** - *Initial work* - [MogJam](https://github.com/mogjam)
